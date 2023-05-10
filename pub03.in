@@ -1,0 +1,13 @@
+5, 10
+Tom, Bob, Joe, Ela, Pet
+room1, room2
+Tom, 10:00, 10:00, room1
+Tom, 10:00, 10:00, room2
+Bob, 11:00, 11:00, room1
+Bob, 11:00, 11:01, room2
+Pet, 12:00, 12:00, room1
+Pet, 12:00, 12:02, room2
+Ela, 13:00, 13:01, room1
+Ela, 13:00, 13:03, room2
+Joe, 14:59, 15:01, room1
+Joe, 14:58, 15:03, room2
